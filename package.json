@@ -1,0 +1,28 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "18.2.*",
+    "react-dom": "18.2.*",
+    "react-native-web": "0.19.*",
+    "react-scripts": "3.3.0",
+    "npm-package-arg": "12.0.2",
+    "@reduxjs/toolkit": "2.5.0",
+    "react-redux": "9.2.0",
+    "date-fns": "4.1.0",
+    "framer-motion": "12.4.3",
+    "react-icon": "1.0.0",
+    "uuid": "11.0.5",
+    "styled-components": "6.1.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
